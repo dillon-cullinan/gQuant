@@ -2,7 +2,7 @@
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
-# http://www.sphinx-doc.org/en/master/config
+# http://www.sphinx-doc.org/en/main/config
 
 # -- Path setup --------------------------------------------------------------
 
@@ -45,7 +45,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     # 'numpydoc',
-    # https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html
+    # https://www.sphinx-doc.org/en/main/usage/extensions/napoleon.html
     'sphinx.ext.napoleon',
     # 'sphinx_markdown_tables',
     'IPython.sphinxext.ipython_console_highlighting',
@@ -66,8 +66,8 @@ source_suffix = {
   '.md': 'markdown',
 }
 
-# The master toctree document.
-master_doc = 'index'
+# The main toctree document.
+main_doc = 'index'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

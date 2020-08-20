@@ -25,7 +25,7 @@
 - id: node_stockSymbol
   type: StockNameLoader
   conf:
-      path: ./data/security_master.csv.gz
+      path: ./data/security_main.csv.gz
   inputs: []
 - id: node_volumeMean
   type: AverageNode

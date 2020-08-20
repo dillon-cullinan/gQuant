@@ -54,12 +54,12 @@
 - \[FEA\] Use RAPIDS 0.9 container in build.sh [\#54](https://github.com/rapidsai/gQuant/issues/54)
 - \[FEA\] Rename notebook to notebooks [\#50](https://github.com/rapidsai/gQuant/issues/50)
 - \[FEA\] Add Jupyterlab extension to display GPU usage [\#49](https://github.com/rapidsai/gQuant/issues/49)
-- \[FEA\] Merge develop branch to master [\#47](https://github.com/rapidsai/gQuant/issues/47)
+- \[FEA\] Merge develop branch to main [\#47](https://github.com/rapidsai/gQuant/issues/47)
 - \[FEA\] implement the fractional difference operation [\#42](https://github.com/rapidsai/gQuant/issues/42)
 
 **Merged pull requests:**
 
-- \[REVIEW\] merge develop to master and release it as 0.4 [\#82](https://github.com/rapidsai/gQuant/pull/82) ([yidong72](https://github.com/yidong72))
+- \[REVIEW\] merge develop to main and release it as 0.4 [\#82](https://github.com/rapidsai/gQuant/pull/82) ([yidong72](https://github.com/yidong72))
 - \[REVIEW\]update to latest version of RAPIDS 0.13 [\#81](https://github.com/rapidsai/gQuant/pull/81) ([yidong72](https://github.com/yidong72))
 - fixed the gamma computation error [\#79](https://github.com/rapidsai/gQuant/pull/79) ([doyend](https://github.com/doyend))
 - \[REVIEW\]asian barrier option  tutorial [\#77](https://github.com/rapidsai/gQuant/pull/77) ([yidong72](https://github.com/yidong72))
@@ -68,7 +68,7 @@
 - \[REVIEW\] Add CI scripts and conda recipe [\#74](https://github.com/rapidsai/gQuant/pull/74) ([raydouglass](https://github.com/raydouglass))
 - \[WIP\] CUQ-36: fix typechecking nodes multi input dataframes [\#68](https://github.com/rapidsai/gQuant/pull/68) ([avolkov1](https://github.com/avolkov1))
 - \[REVIEW\] Upgrade to RAPIDS 0.10 [\#63](https://github.com/rapidsai/gQuant/pull/63) ([yidong72](https://github.com/yidong72))
-- \[REVIEW\] stable master merge [\#62](https://github.com/rapidsai/gQuant/pull/62) ([yidong72](https://github.com/yidong72))
+- \[REVIEW\] stable main merge [\#62](https://github.com/rapidsai/gQuant/pull/62) ([yidong72](https://github.com/yidong72))
 - \[REVIEW\]upgrade to RAPIDS 0.9, FIX the rebase problem [\#61](https://github.com/rapidsai/gQuant/pull/61) ([yidong72](https://github.com/yidong72))
 - Revert "\[REVIEW\]upgrade to RAPIDS 0.9" [\#59](https://github.com/rapidsai/gQuant/pull/59) ([yidong72](https://github.com/yidong72))
 - Revert "\[REVIEW\]upgrade to RAPIDS 0.9" [\#58](https://github.com/rapidsai/gQuant/pull/58) ([avolkov1](https://github.com/avolkov1))
@@ -98,7 +98,7 @@
 
 - Fix \#17 - cuIndicator notebook plot widget is too complicated \(WIP\) [\#45](https://github.com/rapidsai/gQuant/pull/45) ([miguelusque](https://github.com/miguelusque))
 - Fix \#39 - Refactor 04\_portfolio\_trade.ipynb notebook [\#44](https://github.com/rapidsai/gQuant/pull/44) ([miguelusque](https://github.com/miguelusque))
-- Merge develop to master [\#43](https://github.com/rapidsai/gQuant/pull/43) ([yidong72](https://github.com/yidong72))
+- Merge develop to main [\#43](https://github.com/rapidsai/gQuant/pull/43) ([yidong72](https://github.com/yidong72))
 - Fix \#40 - Remove debug info [\#41](https://github.com/rapidsai/gQuant/pull/41) ([miguelusque](https://github.com/miguelusque))
 - Update mortgage example using TaskGraph API. [\#38](https://github.com/rapidsai/gQuant/pull/38) ([avolkov1](https://github.com/avolkov1))
 - fixed the issue 32 [\#37](https://github.com/rapidsai/gQuant/pull/37) ([yidong72](https://github.com/yidong72))
@@ -138,7 +138,7 @@
 
 - Revert "gQuant34 - Update build.sh to make use of RAPIDS v0.8 container" [\#33](https://github.com/rapidsai/gQuant/pull/33) ([yidong72](https://github.com/yidong72))
 - gQuant34 - Update build.sh to make use of RAPIDS v0.8 container [\#12](https://github.com/rapidsai/gQuant/pull/12) ([miguelusque](https://github.com/miguelusque))
-- Synch master with develop [\#4](https://github.com/rapidsai/gQuant/pull/4) ([avolkov1](https://github.com/avolkov1))
+- Synch main with develop [\#4](https://github.com/rapidsai/gQuant/pull/4) ([avolkov1](https://github.com/avolkov1))
 - added unit tests for the cuindicator [\#3](https://github.com/rapidsai/gQuant/pull/3) ([yidong72](https://github.com/yidong72))
 - CUQ-21: Improving tutorials for gQuant [\#2](https://github.com/rapidsai/gQuant/pull/2) ([avolkov1](https://github.com/avolkov1))
 - Add download script and instructions in the readme [\#1](https://github.com/rapidsai/gQuant/pull/1) ([yidong72](https://github.com/yidong72))

@@ -33,6 +33,6 @@ class StockNameLoader(Node):
 
 
 if __name__ == "__main__":
-    conf = {"path": "/home/yi/Projects/stocks/security_master.csv.gz"}
+    conf = {"path": "/home/yi/Projects/stocks/security_main.csv.gz"}
     loader = StockNameLoader("id0", conf, False, False)
     df3 = loader([])

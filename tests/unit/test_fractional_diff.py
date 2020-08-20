@@ -35,7 +35,7 @@ unittest.defaultTestLoader.sortTestMethodsUsing = compare
 def frac_diff(df, d, floor=1e-3):
     r"""Fractionally difference time series via CPU.
     code is copied from
-    https://github.com/ritchieng/fractional_differencing_gpu/blob/master/notebooks/gpu_fractional_differencing.ipynb
+    https://github.com/ritchieng/fractional_differencing_gpu/blob/main/notebooks/gpu_fractional_differencing.ipynb
 
     Args:
         df (pd.DataFrame): dataframe of raw time series values.

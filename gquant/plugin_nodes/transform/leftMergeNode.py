@@ -33,7 +33,7 @@ if __name__ == "__main__":
     df1 = loader([])
     sloader = StockNameLoader(
         "id1",
-        {"path": "/home/yi/Projects/stocks/security_master.csv.gz"},
+        {"path": "/home/yi/Projects/stocks/security_main.csv.gz"},
         False, False)
     df2 = sloader([])
 
